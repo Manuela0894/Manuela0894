@@ -1,7 +1,7 @@
 <h1 align="center">Manuela Andrade</h1>
 
 <p align="center">
-  Desenvolvedor de Sistemas
+  Estudante de Desenvolvimento de Sistemas
 </p>
 
 ---
