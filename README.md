@@ -9,5 +9,6 @@
 
 ![](./profile-3d-contrib/profile-green.svg)
 
-- [Linkedin](https://www.linkedin.com/in/manuela-barbosa-andrade4/)
-- [Email]:(manuela.andrade894@gmail.com)
+##Contato
+[![Linkedin](https://www.linkedin.com/in/manuela-barbosa-andrade4/)
+[![Email](mailto:manuela.andrade894@gmail.com)
