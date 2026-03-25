@@ -17,7 +17,7 @@
 
 ![](./profile-3d-contrib/profile-green.svg)
   
-## ✉️ Contato
+## Contato
 <div align="center">
 	
 [<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/manuela-barbosa-andrade4/)
