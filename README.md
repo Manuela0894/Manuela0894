@@ -11,8 +11,6 @@
   
 </div>
 
-linkedin
-
 <br>
 
 ---
@@ -20,8 +18,11 @@ linkedin
 ![](./profile-3d-contrib/profile-green.svg)
   
 ## ✉️ Contato
+<div align="center">
+	
 [<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/manuela-barbosa-andrade4/)<br>
 
+[<img src="https://skillicons.dev/icons?i=gmail" />](mailto:manuela.andrade894@gmail.com)
+</div>
 
 
-[Email](mailto:manuela.andrade894@gmail.com)
