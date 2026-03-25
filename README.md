@@ -3,6 +3,15 @@
 <p align="center">
   Estudante técnico de Desenvolvimento de Sistemas
 </p>
+<br>
+
+<div align="center">
+	
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,git,github,react,dotnet,cs,html,css,js" />
+  
+</div>
+
+<br>
 
 ---
 
